@@ -1,0 +1,12 @@
+header{
+	border: 1px solid red;
+	margin-bottom: 25px;
+	background-color: red;
+	color: white;
+}
+
+section{
+	border: 1px solid blue;
+	background-color: blue;
+	color: white;
+}
